@@ -1,0 +1,33 @@
+{
+    
+    "": [
+      {
+        "id": 1,
+        "creator_id": 1,
+        "name": "vies eten geef je niet eens aan je hond",
+        "description": "je gore kanker moeder",
+        "score": "4/10"
+      },
+      
+      {
+        "id": 2,
+        "creator_id": 1,
+        "name": "hallo",
+        "description": "lekker hoor",
+        "score": "10/10"
+      },
+      
+      {
+        "id": 3,
+        "creator_id": 2,
+        "name": "bah",
+        "description": "iew",
+        "score": "2/10"
+      }
+    
+    
+    ]
+
+    
+  }
+  
