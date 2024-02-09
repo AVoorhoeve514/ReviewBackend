@@ -4,7 +4,7 @@ let data = [
     "id": 1,
     "creator_id": 1,
     "name": "vies eten geef je niet eens aan je hond",
-    "description": "je gore kanker moeder",
+    "description": "jakkie bah",
     "score": "4/10"
   },
   

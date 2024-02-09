@@ -10,8 +10,8 @@ const supabase = createReview(
 
 /**
  
-function to get all the appointments
-@returns an array of appointments
+function to get all the reviews from the database
+@returns an array of reviews
 */
 export async function getReviewData() {
   const { data, error } = await supabase.from('reviews').select('*');
